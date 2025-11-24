@@ -58,27 +58,7 @@ REST API using Express.js
 
 Axios used on frontend for data fetching
 
-Error handling + Loading states
-
-📂 Folder Structure (Simplified)
-project/
-│
-├── client/                # React Frontend
-│   ├── src/
-│   │   ├── api/axios.js
-│   │   ├── app/store.js
-│   │   ├── features/tasks/tasksSlice.js
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── App.js
-│   └── package.json
-│
-└── server/                # Node.js Backend
-    ├── models/Task.js
-    ├── routes/tasks.js
-    ├── config/db.js
-    ├── index.js
-    └── package.json
+Error handling + Loading state
 
 🛠️ Installation & Setup
 1️⃣ Clone Repository
